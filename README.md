@@ -7,5 +7,5 @@ https://github.com/ombharatiya/FAANG-Coding-Interview-Questions/blob/main/TopLee
 **2. Cracking the Coding Interview Book - PDF version**
 https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf
 
-**3. SQL Important Concepts**
+**3. SQL Important Concepts -** 
 https://www.youtube.com/watch?v=7GVFYt6_ZFM&list=PL08903FB7ACA1C2FB
