@@ -1,4 +1,4 @@
-# CU-MACS
+# CU-MACS - Fall 2021
 **Important Links**
 
 **1. Important Problems - FAANG**
