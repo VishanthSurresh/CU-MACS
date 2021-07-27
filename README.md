@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=7GVFYt6_ZFM&list=PL08903FB7ACA1C2FB
 
 **4. Understanding Tree Concepts with Visualizations - Example: AVL Tree**
 https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+
+**5. Java Documentation -** 
+https://www.javatpoint.com/java-tutorial
